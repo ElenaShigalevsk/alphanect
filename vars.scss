@@ -1,0 +1,59 @@
+$black: #0F172A;
+$white: #fff;
+$accent: #487EDF;
+$blue: #ECF6FC;
+$default: #64748B;
+$border: #E4F0FB;
+$grey: #475569;
+$footer: #202737;
+$footer-text: #94A3B8;
+$footer-btn: #111725;
+$table-border: #EAEAEC;
+
+
+
+%title-font {
+    font-size: 32px;
+    line-height: 52px;
+    font-weight: 800;
+    letter-spacing: -0.6px;
+    font-family: 'Inter', sans-serif;
+    padding: 20px 0;
+}
+
+%subtitle {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4px;
+    color: $accent;
+    text-transform: uppercase;
+}
+
+%title-font-desctop {
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    font-family: 'Inter', sans-serif;
+    padding: 20px 0;
+}
+
+%subtitle-desctop {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4px;
+    color: $accent;
+    text-transform: uppercase;
+}
+
+
+// %title-font{
+//     font-family: 'Roboto', sans-serif;
+//     font-size: 24px;
+// 	font-weight: 300;
+//     line-height: 34px;
+// }
